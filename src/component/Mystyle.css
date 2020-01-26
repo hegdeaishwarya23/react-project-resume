@@ -1,0 +1,39 @@
+table, td, th
+                  {
+                    border: 1px solid black;
+                  }
+            
+                 table
+                  {
+                    border-collapse: collapse;
+                    width: 100%;
+                  }
+            
+                 th 
+                 {
+                    height: 50px;
+                 }
+ 
+hr
+{
+    border: 2px solid burlywood;
+}
+.divclr{
+
+    background-color: burlywood;
+}
+form{
+  display: block;
+  border: 7px solid burlywood;
+  padding: 20px;
+  margin-top: 50px;
+  margin-left: 150px;
+  margin-right: 150px;
+
+}
+
+img{
+    width:150px;
+     height:150px;
+      float:right;
+}
